@@ -1,0 +1,7 @@
+Creating a new file named my_file.txt 
+if the file existed before 'w' will overwrite the content of the file
+I do not need to close the file because 'with' clause will mamke it close automatically
+123
+Append add contents to the file without overwriting the file contents
+Makes file handling easy
+This is cool
